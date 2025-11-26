@@ -1,0 +1,52 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Eva Ayllón",
+      "album": "Emociones",
+      "año": 2025,
+      "genero": "música criolla",
+      "imagen": "001.jpg",
+      "sinopsis": "El último álbum de Eva Ayllón es Emociones, lanzado en julio de 2024, centrado en el género de música criolla y como homenaje al Perú. Otros trabajos recientes incluyen Criollo Sinfónico En Concierto (2024) y Quimba Fa (2025).",
+      "calificacion": 10,
+      "youtube":"https://www.youtube.com/watch?v=PTH5iTZRp0I&list=RDPTH5iTZRp0I&start_radio=1",
+      "spotify":"https://open.spotify.com/intl-es/album/0tcdHRnYeDu7OTewVd7E95"
+    },
+    {
+      "id": 2,
+      "titulo": "Gian Marco",
+      "album": "Aun me sigo encontrando",
+      "año": 2024,
+      "genero": "pop latino, salsa y balada romántica",
+      "imagen": "002.jpg",
+      "sinopsis": "El último álbum de Gian Marco, Aún me sigo encontrando (2024), es una fusión de pop latino, salsa y balada romántica, con una exploración profunda de ritmos latinos y colaboraciones con artistas como Rubén Blades, Daniela Darcourt, Mike Bahía y Silvio Rodríguez.",
+      "calificacion": 8,
+      "youtube":"https://www.youtube.com/watch?v=tLuMAhuh-fU&list=OLAK5uy_n0XeXbxDWpgQtFX6z4egcGqEiNxC4KhMM",
+      "spotify":"https://open.spotify.com/intl-es/album/5h5LYj1q3fHaol9hIF6sQx"
+    },
+    {
+      "id": 3,
+      "titulo": "Grupo 5",
+      "album": "Amigo y algo más",
+      "año": 2022,
+      "genero": "cumbia peruana",
+      "imagen": "grupo5.jpg",
+      "sinopsis": "El álbum más reciente de Christian Yaipén con Grupo 5 es Amigo y algo más, dentro del estilo de cumbia peruana que la agrupación ha perfeccionado a lo largo de su carrera. Incluye éxitos como Noche de Oro (2023).",
+      "calificacion": 7,
+      "youtube":"https://www.youtube.com/watch?v=KV_-1WP3rgY&list=PLFU4USUWb3VokdqO_thDL0rlywALlKAr-",
+      "spotify":"https://open.spotify.com/intl-es/album/5p1NbnRWWNSZlpyYh1xJEC"
+    },
+    {
+      "id": 4,
+      "titulo": "Mimy Succar",
+      "album": "Alma, corazon y salsa",
+      "año": 2023,
+      "genero": "salsa, ritmos tropicales y fusión peruana",
+      "imagen": "mm.jpg",
+      "sinopsis": "El último álbum de Mimy Succar es Alma, corazón y salsa (Live at Gran Teatro Nacional), lanzado en 2024 junto a su hijo Tony Succar. Ganó un Grammy al Mejor Álbum Tropical Latino en 2025.",
+      "calificacion": 8,
+      "youtube":"https://www.youtube.com/watch?v=QeOIPyWnsLc&list=OLAK5uy_mGfDtWgco_HvQWQQhB9_fex9nW-szUz-4",
+      "spotify":"https://open.spotify.com/intl-es/album/5eHqRJqFsoZ9399SqnCYUR"
+    }
+  ]
+}

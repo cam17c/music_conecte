@@ -1,0 +1,79 @@
+/* Formulario de contacto */
+.contacto {
+    padding: 3rem 2rem; 
+    background: #fff;
+}
+.contact-form {
+  max-width: 600px;
+  margin: 1.5rem auto 3rem;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #007BFF;
+  outline: none;
+}
+
+/* Botón */
+.btn {
+  display: inline-block;
+  background: #007BFF;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background: #0056b3;
+}
+
+/* Información de contacto adicional */
+.contact-info {
+  max-width: 600px;
+  margin: 0 auto;
+  background: #f0f8ff;
+  padding: 1rem 1.5rem;
+  border-radius: 5px;
+  border-left: 5px solid #007BFF;
+  color: #004a99;
+}
+
+.contact-info h4 {
+  margin-bottom: 1rem;
+}
+
+.contact-info ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.contact-info li {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}

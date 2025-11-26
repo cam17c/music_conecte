@@ -1,0 +1,24 @@
+.features h3 {
+  color: #007BFF;
+  margin-bottom: 1.5rem;
+}
+
+.feature-list .feature {
+  background: #e9f0ff;
+  border: 1px solid #c3d1ff;
+  transition: background-color 0.3s ease;
+}
+
+.feature-list .feature:hover {
+  background: #c3d1ff;
+}
+
+/* Sección "más información" */
+.more-info {
+  margin-top: 3rem;
+  background: #f0f8ff;
+  padding: 1.5rem;
+  border-left: 5px solid #007BFF;
+  font-style: italic;
+  color: #004a99;
+}

@@ -1,0 +1,89 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Paulo Londra",
+      "album":"BLACK TO THE GAME",
+      "año": 2022, 
+      "genero": "rap latino, trap latino, hip hop y pop urbano",
+      "imagen": "01.jpg",
+      "sinopsis": "Back to the Game es el segundo álbum de estudio del cantautor y rapero argentino Paulo Londra. Lanzado el 23 de noviembre de 2022 a través de Warner Music Latina.",
+      "calificacion": 10,
+      "youtube": "https://www.youtube.com/watch?v=eJl4OdfadfY&list=OLAK5uy_kL9f4FwuSB9SvLQ179wjOtIn55ij5ZQao",
+      "spotify": "https://open.spotify.com/intl-es/album/2SWwDDBZG7UfECbPWQ2t4h"
+    },
+    {
+      "id": 2,
+      "titulo": "Lit Killah",
+      "album":"Kustom",
+      "año": 2024,
+      "genero": "rap y hip hop latino con influencias de R&B, reguetón y afrobeat",
+      "imagen": "02.jpg",
+      "sinopsis": "KUSTOM es el tercer álbum de estudio de Lit Killah, lanzado en octubre de 2024 como parte de un proceso de reinvención artística. Refleja su visión de llevar la música a su propio estilo.",
+      "calificacion": 9,
+      "youtube": "https://www.youtube.com/watch?v=RXsXgvK5aQc&list=OLAK5uy_moUiNx8BF9dR3pN8ajPpnsYzXaHulrXxQ",
+      "spotify": "https://open.spotify.com/intl-es/album/4kXaM6fo4q2hK6b6Sra4qp"
+    },
+    {
+      "id": 3,
+      "titulo": "María Becerra",
+      "album":"La nena de argentina",
+      "año": 2022,
+      "genero": "pop urbano, reguetón y trap con influencias de afrobeat y dancehall",
+      "imagen": "03.jpg",
+      "sinopsis": "La Nena de Argentina es el segundo álbum de estudio de la cantante y compositora argentina María Becerra. Lanzado mundialmente el 8 de diciembre de 2022.",
+      "calificacion": 7,
+      "youtube": "https://www.youtube.com/watch?v=Zwzrh9BVHKI&list=OLAK5uy_lPcHeZjn5exy1dhQNqyqpspcR3H-wBY10&index=2",
+      "spotify": "https://open.spotify.com/intl-es/album/55onwkSIEu5gEXdiJ6ssFG"
+    },
+    {
+      "id": 4,
+      "titulo": "3AM",
+      "album":"Rain City",
+      "año": 2022,
+      "genero": "Urbano Latino",
+      "imagen": "3am.jpg",
+      "sinopsis": "Forajidos Rain City combina los títulos de dos álbumes del dúo musical venezolano 3AM, formado por los hermanos gemelos Rych y Chris, creando una narrativa sobre su trayectoria musical.",
+      "calificacion": 8,
+      "youtube":"https://www.youtube.com/watch?v=Pf_6b9_eM9A&list=OLAK5uy_nhk_w2bduXVqdVVDfh_L2Jj1xq9geGnVE",
+      "spotify":"https://open.spotify.com/intl-es/album/2PEc3oXqABLzxyfeZMCJcF"
+    },
+    {
+      "id": 5,
+      "titulo": "La Rosalía",
+      "album":"MOTOMAMI",
+      "año": 2022,
+      "genero": "reguetón alternativo, pop experimental y avant-garde",
+      "imagen": "rosa.png",
+      "sinopsis": "Motomami es el tercer álbum de estudio de la cantante española Rosalía, lanzado el 18 de marzo de 2022. Su versión deluxe Motomami+ salió el 9 de septiembre de 2022.",
+      "calificacion": 7,
+      "youtube":"https://www.youtube.com/watch?v=6o7bCAZSxsg&list=OLAK5uy_nJYW1-hDvdGVx6kWFbrJF5cC3cDIcPvkE",
+      "spotify":"https://open.spotify.com/intl-es/album/6jbtHi5R0jMXoliU2OS0lo"
+    },
+    {
+      "id": 6,
+      "titulo": "Harry Styles",
+      "album":"Harry´s House",
+      "año": 2022,
+      "genero": "pop, synth-pop, boogie y R&B",
+      "imagen": "harry.avif",
+      "sinopsis": "Harry’s House es el tercer álbum de estudio del cantante británico Harry Styles, lanzado el 20 de mayo de 2022. Grabado entre 2020 y 2021, producido por Kid Harpoon, Tyler Johnson y Samuel Witte.",
+      "calificacion": 7,
+      "youtube":"https://www.youtube.com/watch?v=8ybQKl8HMFY&list=OLAK5uy_mlz0XdHjgFO8gVxdQD94aCHsEfpUlgJJ0&index=2",
+      "spotify":"https://open.spotify.com/intl-es/album/5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    {
+      "id": 7,
+      "titulo": "Billie Eilish",
+      "album":"Hit Me Hard",
+      "año": 2024,
+      "genero": "pop alternativo y bedroom pop",
+      "imagen": "billi.webp",
+      "sinopsis": "Hit Me Hard and Soft es el tercer álbum de estudio de Billie Eilish, lanzado el 17 de mayo de 2024 a través de Darkroom e Interscope Records.",
+      "calificacion": 9,
+      "youtube":"https://www.youtube.com/watch?v=GgGarnL54Fw&list=OLAK5uy_m1WZWUtrntyrrtCUSATYfs84K3ZnZl9P0&index=2",
+      "spotify":"https://open.spotify.com/intl-es/album/7aJuG4TFXa2hmE4z1yxc3n"
+
+    }
+  ]
+}
