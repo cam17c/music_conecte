@@ -47,6 +47,31 @@
       "calificacion": 8,
       "youtube":"https://www.youtube.com/watch?v=QeOIPyWnsLc&list=OLAK5uy_mGfDtWgco_HvQWQQhB9_fex9nW-szUz-4",
       "spotify":"https://open.spotify.com/intl-es/album/5eHqRJqFsoZ9399SqnCYUR"
+    },
+   
+    {
+      "id": 5,
+      "titulo": "Milena Warton",
+      "album": "Latinchola",
+      "año": 2025,
+      "genero": "popandino",
+      "imagen": "00001.jpg",
+      "sinopsis": "Milena Warthon es una cantante peruana, creadora del pop andino, que fusiona música andina con pop. LATINCHOLA es su segundo álbum de estudio, lanzado en 2025. El término latinchola es utilizado por Milena de forma empoderadora para reivindicar su identidad y raíces andinas, y el álbum aborda temas que atraviesan a la mujer, incluyendo la superación y la lucha contra la violencia.",
+      "calificacion": 8,
+      "youtube":"https://www.youtube.com/watch?v=tXMz4QgzmeI&list=OLAK5uy_kPzdyNsuiKCmqPMkTr-wgXxneN6HcvZMo",
+      "spotify":"https://open.spotify.com/intl-es/track/5sMWZMGE0UYOfqpHwkEvNi"
+    },
+    {
+      "id": 6,
+      "titulo": "Daniela Darcourt",
+      "album": "Renacer",
+      "año": 2024,
+      "genero": "salsa contenporanea",
+      "imagen": "dan.jpg",
+      "sinopsis": "El último álbum de Mimy Succar es Alma, corazón y salsa (Live at Gran Teatro Nacional), lanzado en 2024 junto a su hijo Tony Succar. Ganó un Grammy al Mejor Álbum Tropical Latino en 2025.",
+      "calificacion": 8,
+      "youtube":"https://www.youtube.com/watch?v=OfBpiC2LxTk&list=PL-ehYyoOrka17OpTh5sCsJpXoAzEKpLxn",
+      "spotify":"https://open.spotify.com/intl-es/album/1rb41rTA9dUOW46y06c8zO"
     }
   ]
 }

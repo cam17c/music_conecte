@@ -53,7 +53,7 @@ function App() {
     path="/comunidad"
     element={
       <RutaPrivada>
-        <Comunidad />
+        
       </RutaPrivada>
     }
   />

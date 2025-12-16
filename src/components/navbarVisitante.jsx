@@ -6,8 +6,8 @@ function NavbarVisitante() {
       <div className="container mx-auto flex items-center justify-between py-4 px-6">
 
         <h1 className="text-2xl font-extrabold">
-          <span className="text-red-400">Mi</span>{" "}
-          <span className="text-gray-200">Página</span>
+          <span className="text-red-400">Music</span>{" "}
+          <span className="text-gray-200">Connection</span>
         </h1>
 
         <nav>
@@ -27,11 +27,6 @@ function NavbarVisitante() {
               </Link>
             </li>
 
-            <li>
-              <Link to="/comunidad" className="hover:text-red-400 transition">
-                Comunidad
-              </Link>
-            </li>
 
             <li>
               <Link to="/contacto" className="bg-red-500 text-white px-5 py-2 rounded-full hover:bg-red-400 transition font-semibold shadow-md">
